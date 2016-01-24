@@ -1,0 +1,31 @@
+{
+  "name": "parse-float-from-br-currency",
+  "description": "A simple function that transforms a string like \"R$ 10,95\" into a valid float number 10.95.",
+  "main": "index.js",
+  "authors": [
+    "Bruno Oliveira <bruno.oliveirati1@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "currency",
+    "unmask",
+    "dinheiro",
+    "brazil",
+    "brasil",
+    "i18n"
+  ],
+  "homepage": "https://github.com/brunoti/parse-float-from-br-currency",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ]
+}
