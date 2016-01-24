@@ -15,6 +15,19 @@ Or maybe (in the future) like this:
 2,839,039.38
 ```
 
+## Instalation
+With npm:
+```
+npm install --save parse-float-from-br-currecy
+```
+
+With Bower:
+```
+bower install --save parse-float-from-br-currecy
+```
+
+Or you can just [download a ZIP](https://github.com/brunoti/parse-float-from-br-currecy/archive/master.zip).
+
 ## Setup
 
 ###### Node or Browserify
