@@ -1,7 +1,7 @@
 {
   "name": "parse-float-from-br-currency",
   "version": "1.0.0",
-  "description": "A simple function that turns a string like \"R$ 10,95\" into a valid float number 10.95.",
+  "description": "A simple function that transforms a string like \"R$ 10,95\" into a valid float number 10.95.",
   "main": "index.js",
   "keywords": [
       "currency",
